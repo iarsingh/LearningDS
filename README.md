@@ -16,3 +16,11 @@ Based on the name, it's intended for data structures learning/practice (e.g. imp
 ## Status
 
 Minimal / placeholder repo. No code, dependencies, or setup instructions to document yet.
+
+## Documentation checks
+
+Project architecture, interview guides, and local source links are checked automatically on pushes and pull requests. Run the same check locally:
+
+```bash
+python3 .github/scripts/validate_project_docs.py
+```
