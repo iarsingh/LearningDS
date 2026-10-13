@@ -1,5 +1,12 @@
 # LearningDS
 
+## Overview
+
+An empty repository intended, going by its name, for data structures learning and practice such as implementations and exercises. No code, dependencies or setup instructions have been added yet, so there is nothing to build or run. The README only records that status until work begins.
+
+- **Built with:** Nothing yet; no code has been added.
+- **Scope:** Placeholder for future learning exercises.
+
 <!-- project-guide:start -->
 ## Project guide
 
